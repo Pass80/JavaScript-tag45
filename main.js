@@ -95,7 +95,7 @@ let num666 = '321';
 console.log((num666 * 1).toString());
 
 let num777 = 'supercode';
-console.log((num777 * 1).toString(3));
+console.log((num777 * 1).toString());
 
 console.log('==================');
 
